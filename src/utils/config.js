@@ -1,5 +1,5 @@
 module.exports = {
-  siteName: 'AntD Admin',
+  siteName: '키우미',
   copyright: 'Ant Design Admin  ©2020 zuiidea',
   logoPath: '/logo.svg',
   apiPrefix: '/api/v1',
